@@ -1,4 +1,4 @@
-# -Real-Time-Covid-19-Notifier
+# Real-Time-Covid-19-Notifier
 A Real Time Notification System that keeps you updated about Covid-19 Outbreak every 30 minutes.
 
 Instructions
