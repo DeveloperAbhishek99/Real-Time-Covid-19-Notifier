@@ -13,11 +13,15 @@
   ✔ Enter Your State Name in Line no 32. (Don't enter more than 5 States). (Example: states = ['Delhi', 'West Bengal', 'Maharashtra',])
   
   ✔ Now save the file, close the editor and run main.py.
+  
+  
 
 🎯 Modules Used :
 
   ✔ Plyer
+  
   ✔ BeautifulSoup
+  
   
  📚 Resources :
     
