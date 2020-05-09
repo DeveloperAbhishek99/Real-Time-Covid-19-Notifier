@@ -2,6 +2,7 @@
 
  💻 A Real Time Notification System that keeps you updated about Covid-19 Outbreak every 30 minutes.
 
+
 💼 Instructions 
 
    ✔ Make sure you have Python (Version 3.7 or higher) installed in your system.
@@ -19,8 +20,8 @@
 
 🎯 Modules Used :
 
-  ✔ Plyer
-  ✔ BeautifulSoup
+  🔔 Plyer
+  🔔 BeautifulSoup
   
   
  📚 Resources :
